@@ -52,11 +52,13 @@ Project-Piffa@main:~$ pip3 install time
 Project-Piffa@main:~$ pip3 install webbrowser
 ```
 
-Now you just need to edit the main.py file and add your preferences (bot token --> line 11, chatID --> line 12, asin --> line 22 and the messages --> lines 36,37,39)
+Now you just need to edit the main.py file and add your preferences (bot token --> line 11, chatID --> line 12, asin --> line 22 and the messages --> lines 36,37,39).
 
 ## 🎈 Usage <a name="usage"></a>
 
-Simple launch the main.py and if you configured all in the right way the script automaticlly send you a message when that product will available 
+Simple launch the main.py and if you configured all in the right way the script automaticlly send you a message when that product will available.
+
+I suggest to use the "screen" command on linux considering that the script need to run on an always open shell.
 
 ## ⛏️ Built With <a name = "tech_stack"></a>
 
