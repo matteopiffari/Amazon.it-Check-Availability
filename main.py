@@ -32,7 +32,7 @@ def check():
 
     check = str(div_case)
 
-    if "In Stock" in check:
+    if "Disponibilità" in check:
         telegram_bot_sendtext("message-to-send")
         print("message-to-print-in-console")
     else:
