@@ -63,7 +63,7 @@ I suggest to use the "screen" command on linux considering that the script need 
 ## ⛏️ Built With <a name = "tech_stack"></a>
 
 - [VSCode](https://code.visualstudio.com/) - Text Editor
-- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) - Main programming language
+- [Python](https://python.org) - Main programming language
 
 ## ✍️ Authors <a name = "authors"></a>
 
