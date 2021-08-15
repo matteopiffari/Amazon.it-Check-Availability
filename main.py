@@ -1,6 +1,5 @@
 import bs4
 import requests
-import webbrowser
 import schedule
 import time
 from time import sleep
