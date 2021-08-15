@@ -45,11 +45,7 @@ Project-Piffa@main:~$ pip3 install schedule
 ```
 
 ```console
-Project-Piffa@main:~$ pip3 install time
-```
-
-```console
-Project-Piffa@main:~$ pip3 install webbrowser
+Project-Piffa@main:~$ pip3 install python-time
 ```
 
 Now you just need to edit the main.py file and add your preferences (bot token --> line 11, chatID --> line 12, asin --> line 22 and the messages --> lines 36,37,39).
