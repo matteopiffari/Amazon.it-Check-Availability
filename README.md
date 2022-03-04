@@ -63,4 +63,4 @@ I suggest to use the "screen" command on linux considering that the script need 
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@Project-Piffa](https://github.com/matteopiffari) - Idea & Work
+- [matteopiffari](https://github.com/matteopiffari) - Idea & Work
