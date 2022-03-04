@@ -1,6 +1,6 @@
 <p align="center"> 
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://project-piffa.github.io/assets/img/Amazon_disp.svg" alt="Amazon_disp logo"></a>
+ <img width=200px height=200px src="https://matteopiffari.github.io/assets/img/Amazon_disp.svg" alt="Amazon_disp logo"></a>
 </p>
 
 <h3 align="center">Amazon.it Check Availability</h3>
