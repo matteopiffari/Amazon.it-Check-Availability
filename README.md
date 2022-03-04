@@ -27,25 +27,25 @@
 To download the source code you just need to type this in a bash:
 
 ```console
-Project-Piffa@main:~$ git clone https://github.com/Project-Piffa/Amazon.it-Check-Availability
+matteopiffari@main:~$ git clone https://github.com/matteopiffari/Amazon.it-Check-Availability
 ```
 
 Install the modules:
 
 ```console
-Project-Piffa@main:~$ pip3 install bs4
+matteopiffari@main:~$ pip3 install bs4
 ```
 
 ```console
-Project-Piffa@main:~$ pip3 install requests
+matteopiffari@main:~$ pip3 install requests
 ```
 
 ```console
-Project-Piffa@main:~$ pip3 install schedule
+Pmatteopiffari@main:~$ pip3 install schedule
 ```
 
 ```console
-Project-Piffa@main:~$ pip3 install python-time
+matteopiffari@main:~$ pip3 install python-time
 ```
 
 Now you just need to edit the main.py file and add your preferences (bot token --> line 11, chatID --> line 12, asin --> line 22 and the messages --> lines 36,37,39).
@@ -63,4 +63,4 @@ I suggest to use the "screen" command on linux considering that the script need 
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@Project-Piffa](https://github.com/Project-Piffa) - Idea & Work
+- [@Project-Piffa](https://github.com/matteopiffari) - Idea & Work
